@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React revision",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidUday/ReactRevision.git"
+  },
+  "author": "Uday Pratap Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoidUday/ReactRevision/issues"
+  },
+  "homepage": "https://github.com/VoidUday/ReactRevision#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
